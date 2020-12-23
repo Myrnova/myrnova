@@ -5,4 +5,4 @@ I'm a junior developer with knowledge of C#, Javascript, HTML, CSS, Bootstrap, J
 
 
 ### Where to find me 🧾
-- Via linkedin: <a href="https://www.linkedin.com/in/debycl2002/"></a>
+- Via <a href="https://www.linkedin.com/in/debycl2002/">linkedin</a>
