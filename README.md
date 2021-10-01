@@ -1,7 +1,9 @@
 <a href="https://www.linkedin.com/in/debycl2002/">
   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 </a>
-
+<a href="mailto:deboraca20.d@gmail.com">
+  <img src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
+</a>
 ### Hi there, I'm Débora and I go by the alias Myrnova 👋🖥️
 
 I'm a junior developer with knowledge of C#, Javascript, HTML, CSS, Bootstrap, Jquery, ReactJS, ReactNative and NodeJS.
