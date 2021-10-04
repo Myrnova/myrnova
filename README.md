@@ -15,7 +15,7 @@
 <code><img src="https://img.icons8.com/color/48/000000/css3.png" title="css"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/javascript--v1.png" title="javascript"/></code>
 
-Currently I'm working devoloping new systems using React Framework's NextJS with Apollo and GraphQl altogether and maintenance in .Net Core and .Net Framework systems.
+Currently I'm working devoloping new systems using React Framework's NextJS with GraphQl and maintenance in .Net Core and .Net Framework systems.
 
 
 <img height="180" float="left" src="https://github-readme-stats.vercel.app/api?username=myrnova&show_icons=true&hide_border=true&text_color=bbffff&icon_color=ffffff&bg_color=333333&title_color=ffffff"></img>
