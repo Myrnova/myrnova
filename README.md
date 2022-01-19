@@ -27,6 +27,7 @@ Currently I'm working developing with ReactJS/NextJS, GraphQL, NodeJs and mainte
 
 <code><img src="https://img.icons8.com/color/48/000000/angularjs.png" title="Angular"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/python--v1.png" title="Python"/></code>
+<code><img src="https://img.icons8.com/color/48/000000/flutter.png" title="Flutter"/></code>
 
 <img height="180" float="left" src="https://github-readme-stats.vercel.app/api?username=myrnova&show_icons=true&hide_border=true&text_color=bbffff&icon_color=ffffff&bg_color=333333&title_color=ffffff"></img>
 <img height="180" float="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myrnova&hide_border=true&layout=compact&text_color=bbffff&icon_color=ffffff&bg_color=333333&title_color=ffffff"></img>  
