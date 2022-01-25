@@ -19,7 +19,7 @@
 <code><img src="https://img.icons8.com/color/48/000000/postgreesql.png" title="PostgreSQL"/></code>
 <code><img src="https://img.icons8.com/external-wanicon-flat-wanicon/48/000000/external-sql-server-big-data-wanicon-flat-wanicon.png" title="SQL Server"/></code>
 <code><img src="https://img.icons8.com/fluency/48/000000/docker.png" title="Docker"/></code>
-<code><a src="https://storybook.js.org" ><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-shadow-tal-revivo.png" title="Jest"/></a></code>
+<code><a href="https://storybook.js.org" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-shadow-tal-revivo.png" title="Jest"/></a></code>
 <code><a src="https://storybook.js.org"><img src=""/></a></code>
 
 
