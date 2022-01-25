@@ -9,27 +9,27 @@
 
 -Tecnologies I have worked with:
 
-<code><img src="https://img.icons8.com/color/48/000000/html-5--v1.png" title="HTML"/></code>
-<code><img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS"/></code>
-<code><img src="https://img.icons8.com/color/48/000000/javascript--v1.png" title="Javascript"/></code>
-<code><img src="https://img.icons8.com/color/48/000000/nodejs.png" title="Nodejs" /></code>
-<code><img src="https://img.icons8.com/color/48/000000/react-native.png" title="React"/></code>
-<code><img src="https://img.icons8.com/nolan/48/react-native.png" title="React Native"/></code>
-<code><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" title="C#"/></code>
-<code><img src="https://img.icons8.com/color/48/000000/postgreesql.png" title="PostgreSQL"/></code>
-<code><img src="https://img.icons8.com/external-wanicon-flat-wanicon/48/000000/external-sql-server-big-data-wanicon-flat-wanicon.png" title="SQL Server"/></code>
-<code><img src="https://img.icons8.com/fluency/48/000000/docker.png" title="Docker"/></code>
-<code><a href="https://storybook.js.org" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-shadow-tal-revivo.png" title="Jest"/></a></code>
-<code><a src="https://storybook.js.org"><img src=""/></a></code>
+<code><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png" title="HTML"/></a></code>
+<code><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS"/></a></code>
+<code><a href="https://www.javascript.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png" title="Javascript"/></a></code>
+<code><a href="https://nodejs.org/en/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png" title="Nodejs" /></a></code>
+<code><a href="https://reactjs.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png" title="React"/></a></code>
+<code><a href="https://reactnative.dev" target="_blank"><img src="https://img.icons8.com/nolan/48/react-native.png" title="React Native"/></a></code>
+<code><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" title="C#"/></a></code>
+<code><a href="https://www.postgresql.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/postgreesql.png" title="PostgreSQL"/></a></code>
+<code><a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads?rtc=1" target="_blank"><img src="https://img.icons8.com/external-wanicon-flat-wanicon/48/000000/external-sql-server-big-data-wanicon-flat-wanicon.png" title="SQL Server"/></a></code>
+<code><a href="https://nodejs.org/en/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/docker.png" title="Docker"/></a></code>
+<code><a href="https://jestjs.io/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-shadow-tal-revivo.png" title="Jest"/></a></code>
+<code><a src="https://storybook.js.org" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/bookmark.png" title="Storybook" /></a></code>
 
 
 Currently I'm working developing with ReactJS/NextJS, GraphQL, NodeJs and maintenance in .Net Core and .Net Framework systems.
 
 -Tecnologies I'm studying
 
-<code><img src="https://img.icons8.com/color/48/000000/angularjs.png" title="Angular"/></code>
-<code><img src="https://img.icons8.com/color/48/000000/python--v1.png" title="Python"/></code>
-<code><img src="https://img.icons8.com/color/48/000000/flutter.png" title="Flutter"/></code>
+<code><a href="https://angular.io" target="_blank"><img src="https://img.icons8.com/color/48/000000/angularjs.png" title="Angular"/></a></code>
+<code><a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/python--v1.png" title="Python"/></a></code>
+<code><a href="flutter.dev" target="_blank"><img src="https://img.icons8.com/color/48/000000/flutter.png" title="Flutter"/></a></code>
 
 <img height="180" float="left" src="https://github-readme-stats.vercel.app/api?username=myrnova&show_icons=true&hide_border=true&text_color=bbffff&icon_color=ffffff&bg_color=333333&title_color=ffffff"></img>
 <img height="180" float="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myrnova&hide_border=true&layout=compact&text_color=bbffff&icon_color=ffffff&bg_color=333333&title_color=ffffff"></img>  
