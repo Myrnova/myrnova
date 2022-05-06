@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/debycl2002/">
+<a href="https://www.linkedin.com/in/debora-cl/">
   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 </a>
 <a href="mailto:deboraca02.d@gmail.com">
@@ -23,11 +23,13 @@
 <code><a href="https://storybook.js.org" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/bookmark.png" title="Storybook" /></a></code>
 
 
-Currently I'm working developing with ReactJS/NextJS, GraphQL, NodeJs and maintenance in .Net Core and .Net Framework systems.
+Currently I'm working developing with NodeJs.
 
--Tecnologies I'm studying
+-Tecnologies I'm learning/interested in learning
 
 <code><a href="https://flutter.dev" target="_blank"><img src="https://img.icons8.com/color/48/000000/flutter.png" title="Flutter"/></a></code>
+<code><a href="https://go.dev" target="_blank"><img src="https://img.icons8.com/color/72/golang.png" title="Golang"/></a></code>
+
 
 <img height="180" float="left" src="https://github-readme-stats.vercel.app/api?username=myrnova&show_icons=true&hide_border=true&text_color=bbffff&icon_color=ffffff&bg_color=333333&title_color=ffffff"></img>
 <img height="180" float="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myrnova&hide_border=true&layout=compact&text_color=bbffff&icon_color=ffffff&bg_color=333333&title_color=ffffff"></img>  
