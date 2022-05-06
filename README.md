@@ -28,7 +28,7 @@ Currently I'm working developing with NodeJs.
 -Tecnologies I'm learning/interested in learning
 
 <code><a href="https://flutter.dev" target="_blank"><img src="https://img.icons8.com/color/48/000000/flutter.png" title="Flutter"/></a></code>
-<code><a href="https://go.dev" target="_blank"><img src="https://img.icons8.com/color/72/golang.png" title="Golang"/></a></code>
+<code><a href="https://go.dev" target="_blank"><img src="https://img.icons8.com/color/48/golang.png" title="Golang"/></a></code>
 
 
 <img height="180" float="left" src="https://github-readme-stats.vercel.app/api?username=myrnova&show_icons=true&hide_border=true&text_color=bbffff&icon_color=ffffff&bg_color=333333&title_color=ffffff"></img>
