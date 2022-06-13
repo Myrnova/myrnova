@@ -23,7 +23,7 @@
 <code><a href="https://storybook.js.org" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/bookmark.png" title="Storybook" /></a></code>
 
 
-Currently I'm working developing with NodeJs.
+Currently I'm working with NodeJS and NextJS.
 
 -Tecnologies I'm learning/interested in learning
 
