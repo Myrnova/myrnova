@@ -1,8 +1,8 @@
 <a href="https://www.linkedin.com/in/debora-cl/">
-  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img>
 </a>
 <a href="mailto:deboraca02.d@gmail.com">
- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
 </a>
 
 ### Hi there, I'm Débora and I go by the alias Myrnova 👋🖥️
@@ -42,10 +42,8 @@
 <br />
 <br />
 
-<code><a href="https://storybook.js.org" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/bookmark.png" title="Storybook" /></a></code>
-
 <p>
-  <a href-"https://github.com/Myrnova/myrnova"
+  <a href-"https://github.com/Myrnova/myrnova">
     <img height="180" float="left" src="https://github-readme-stats.vercel.app/api?username=myrnova&show_icons=true&theme=dracula"></img>
     <img height="180" float="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myrnova&hide_border=true&theme=dracula"></img>  
   </a>
