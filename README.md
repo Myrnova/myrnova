@@ -8,9 +8,9 @@
 </a>
 
 
-### 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack
 
-#### Languages and Frameworks
+### Languages and Frameworks
 
 <!-- Typescript -->
 <a href="https://www.typescriptlang.org/" target="_blank">
@@ -68,7 +68,7 @@
 </a>
 <!-- -->
 
-#### Database
+### Database
 <!-- MySQL -->
 <a href="https://www.mysql.com/">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL" />
@@ -85,7 +85,7 @@
 </a>
 <!-- -->
 
-#### Version control and Docs
+### Version control and Docs
 <!-- Git -->
 <a href="https://git-scm.com/" target="_blank">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Git" />
@@ -111,7 +111,7 @@
   <img src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white" title="Mocha"/>
 </a>
 
-#### IDE's
+### IDE's
 <!-- Visual Studio Code -->
 <a href="https://code.visualstudio.com/" target="_blank">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="Visual Studio Code"/>
