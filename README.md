@@ -122,7 +122,7 @@
 
 <p>
   <a href="https://github.com/Myrnova" style="text-decoration: none;">
-    <img height="250" float="left" src="https://github-readme-stats.vercel.app/api?username=myrnova&show_icons=true&hide_border=true&theme=dracula"></img>
-    <img height="250" float="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myrnova&hide_border=true&theme=dracula"></img>  
+    <img height="250" width="550" float="left" src="https://github-readme-stats.vercel.app/api?username=myrnova&show_icons=true&hide_border=true&theme=dracula"></img>
+    <img height="250" width="300" float="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myrnova&hide_border=true&theme=dracula"></img>  
   </a>
 </p>
